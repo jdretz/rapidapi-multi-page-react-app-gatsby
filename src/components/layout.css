@@ -1,0 +1,49 @@
+a {
+    display: block;
+    text-decoration: none;
+    padding: 0.25rem .6rem;
+    color: white;
+}
+
+nav {
+    background: #534B52;
+    list-style-type: none;
+}
+
+td {
+    padding: 5px 10px;
+    text-align: center;
+}
+
+th {
+    padding: 5px 10px;
+    color: white;
+    background-color: black;
+}
+
+table {
+    border-spacing: 5px;
+}
+
+h1 {
+    color: #2C302E;
+}
+
+h2 {
+    color: #474A48;
+}
+
+h3, h4 {
+    color: #909590;
+}
+
+h1,h2,h3,h4 {
+    border-bottom: 2px solid #9AE19D;
+}
+
+span {
+    background: #9AE19D;
+    padding: 1px;
+    margin: 3px;
+    border: 1px solid black;
+}
